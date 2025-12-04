@@ -150,4 +150,5 @@ if data and company_name:
         )
         
     else:
+
         st.subheader('검색결과가 없습니다')
